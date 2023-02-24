@@ -61,7 +61,7 @@ _In our case, we will use this one **workflow** file for many things, which lead
 
 Read more about [workflows](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#choosing-the-type-of-actions-for-your-workflow)
 
-<details id=1 open>
+<details id=1>
 
 <summary><h2> Step 1: Initialize a new JavaScript project</h2></summary>
 
@@ -223,7 +223,7 @@ Our action does not require much metadata for it to run correctly. We will not b
 
 </details>
   
-<details id=4>
+<details id=4 open>
 <summary><h2> Step 4: Create the JavaScript files for your action</h2></summary>
 
 ## Files
